@@ -88,6 +88,8 @@ Format 2
 \bind "M-m S-t" "math-insert \\mathtt"
 \bind "M-m asciicircum" "math-insert \\overset"
 \bind "M-m S-p" "math-insert \\mathrm"
+\bind "M-m S-colon S-equal" "math-insert \\coloneqq"
+\bind "M-m S-u" "math-insert \\bigcup"
 \bind "S-Return" "newline-insert newline"
 \bind "M-p S-d" "layout Definition"
 \bind "M-p m p" "layout Proof"
