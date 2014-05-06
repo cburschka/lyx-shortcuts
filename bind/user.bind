@@ -91,10 +91,11 @@ Format 2
 \bind "M-m S-colon S-equal" "math-insert \\coloneqq"
 \bind "M-m S-u" "math-insert \\bigcup"
 \bind "S-Return" "newline-insert newline"
-\bind "M-p S-d" "layout Definition"
 \bind "M-p m p" "layout Proof"
 \bind "M-p m S-p" "layout Proposition"
 \bind "M-p m c" "layout Claim"
 \bind "M-p m t" "layout Theorem"
+\bind "M-p m d" "layout Definition"
+\bind "M-p m l" "layout Lemma"
 \bind "M-S-Return" "buffer-export pdflatex"
 
