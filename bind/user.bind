@@ -11,6 +11,7 @@ Format 2
 \unbind "M-m less" "math-delim langle rangle"
 \unbind "M-m greater" "math-delim rangle langle"
 \unbind "M-m x" "math-subscript"
+\unbind "M-m S-n" "math-number-line-toggle"
 \unbind "M-p S-d" "layout Date"
 
 \bind "C-r" "flex-insert \"S/R expression\""
